@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-style: italic;
+}
+.img {
+  width: 200px;
+  height: 150px;
+}
+.speedCount {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.increaseBtn {
+  height: 40px;
+  width: 80px;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #0b69ff;
+}
+.brakeBtn {
+  background-color: transparent;
+  border: 1px solid #94a3b8 8px;
+  width: 80px;
+  height: 40px;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+.para {
+  color: #cbd5e1;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
